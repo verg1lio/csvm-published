@@ -14,7 +14,7 @@ further.
 
 ## The model in brief
 
-Four co-flowering cerrado species (*Byrsonima malifolia*, *Peixotoa tomentosa*,
+Four co-flowering cerrado species (*Banisteriopsis malifolia*, *Peixotoa tomentosa*,
 *B. laevifolia* and *B. campestris*) are placed on a grid of 100 × 100 cells of
 0.5 m and simulated with 48 steps per year over 5 years. In each occupied cell,
 a species moves from vegetative condition to floral buds, open flowers and
