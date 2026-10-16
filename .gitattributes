@@ -1,0 +1,6 @@
+# Every file is stored byte for byte: the MATLAB code keeps its original
+# Windows-1252 encoding and line endings. Nothing is converted on checkout.
+* -text
+
+# GitHub language statistics: .m files are MATLAB, not Objective-C.
+*.m linguist-language=MATLAB
